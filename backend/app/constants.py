@@ -1,0 +1,3 @@
+USER_AGENT = "RSSBridge/1.0"
+
+REQUEST_TIMEOUT = 20
